@@ -33,6 +33,8 @@ git clone https://github.com/wangchunliu/Chinese-DRS-data
 
 When we need to get tokenised Chinese data:`Python -m jieba -d ‘ ’  infile > outfile`.
 
+When we need to get BPE Chinese data, we use the commands from https://github.com/rsennrich/subword-nmt.
+
 
 3.From [DRS_parsing respository](https://github.com/RikVN/DRS_parsing), we can get evaluation scripts. 
 The scripts in this section will import from clf_referee.py, so make sure DRS_parsing/evaluation/ is on the $PYTHONPATH.
