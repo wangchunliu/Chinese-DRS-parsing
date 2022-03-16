@@ -1,6 +1,6 @@
 # Chinese-DRS-parsing
 
-The datasets and codes for my ACL-IJCNLP 2021 paper [Input Representations for Parsing Discourse Representation Structures: Comparing English with Chinese](). 
+The datasets and codes for my ACL-IJCNLP 2021 paper [Input Representations for Parsing Discourse Representation Structures: Comparing English with Chinese](https://aclanthology.org/2021.acl-short.97.pdf). 
 The codes were based on [the work of Rik van Noord](https://github.com/RikVN/Neural_DRS).
 The English data used in paper come from [DRS_parsing respository](https://github.com/RikVN/DRS_parsing).
 
